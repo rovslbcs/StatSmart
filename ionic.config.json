@@ -1,0 +1,7 @@
+{
+  "name": "StatSmart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
